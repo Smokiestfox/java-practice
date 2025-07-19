@@ -6,15 +6,15 @@ The goal is to improve Java programming skills through small projects.
 ## Folder Structure
 
 java-practice/
-├── Main.java
-├── Student.java
-├── StudentManager.java
-└── Quanlydiem.java
+├── Main.java 
+├── Student.java 
+├── StudentManager.java 
+└── Quanlydiem.java  
 
-markdown
-Sao chép
-Chỉnh sửa
-
+markdown 
+Sao chép 
+Chỉnh sửa 
+ 
 ## ✅ Topics Covered
 
 - ✅ Basic syntax & input/output
