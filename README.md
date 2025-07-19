@@ -10,10 +10,6 @@ java-practice/
 ├── Student.java 
 ├── StudentManager.java 
 └── Quanlydiem.java  
-
-markdown 
-Sao chép 
-Chỉnh sửa 
  
 ## ✅ Topics Covered
 
